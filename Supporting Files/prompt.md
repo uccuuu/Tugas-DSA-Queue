@@ -25,9 +25,9 @@ Untuk setiap query jenis ke-3 (`3`), cetak elemen paling depan dari queue.
 
 ### Batasan (Constraints):
 
-1. **1 ≤ q ≤ $10^5$:** Banyaknya operasi bisa sangat besar, jadi efisiensi waktu sangat penting.
-2. **1 ≤ type ≤ 3:** Tipe query pasti valid.
-3. **1 ≤ |x| ≤ $10^9$:** Nilai elemen bisa sangat besar, jadi gunakan tipe data seperti `long` di C.
+1. `1 ≤ q ≤ 10⁵:` Banyaknya operasi bisa sangat besar, jadi efisiensi waktu sangat penting.
+2. `1 ≤ type ≤ 3:` Tipe query pasti valid.
+3. `1 ≤ |x| ≤ 10⁹:` Nilai elemen bisa sangat besar, jadi gunakan tipe data seperti `long` di C.
 4. Diberikan bahwa setiap query jenis `3` akan selalu valid (tidak pernah memanggil cetak dari queue kosong).
 
 ### Sample Input
@@ -70,14 +70,14 @@ Untuk setiap query jenis ke-3 (`3`), cetak elemen paling depan dari queue.
 
 ## Analisis dan Pendekatan Solusi
 
-Untuk membangun **struktur data queue (FIFO)** menggunakan dua buah **stack (LIFO)**, digunakan pendekatan berikut:
+Untuk membangun `struktur data queue (FIFO)` menggunakan dua buah `stack (LIFO)`, digunakan pendekatan berikut:
 
-1. `stack1`: untuk menyimpan elemen yang masuk (**enqueue**)
-2. `stack2`: untuk mengeluarkan atau melihat elemen depan (**dequeue** dan **peek**)
+1. `stack1`: untuk menyimpan elemen yang masuk (`enqueue`)
+2. `stack2`: untuk mengeluarkan atau melihat elemen depan (`dequeue` dan `peek`)
 
 ### Strategi Kerja
 
-1. **Enqueue (`1 x`)** <br>
+1. ` Enqueue (``1 x``) ` <br>
    return Tambahkan elemen `x` ke `stack1`.
 2. **Dequeue (`2`)** <br>
    Menghapus elemen pertama dari `stack2`.
@@ -99,7 +99,7 @@ Meskipun stack bekerja secara LIFO (Last In, First Out), dengan memindahkan elem
 - **Enqueue: O(1)** <br>
   Menambahkan elemen ke `stack1` adalah operasi konstan, karena tidak memerlukan pergeseran elemen lain.
 - **Dequeue / Peek: Amortized O(1)** <br>
-  Meskipun pada saat pemindahan elemen dari stack1 ke stack2 mungkin tampak seperti operasi yang mahal, tetapi **setiap elemen hanya dipindahkan satu kali**. **Ini berarti bahwa total waktu untuk operasi ini adalah amortized O(1)**, meskipun secara individu operasi **dequeue** atau **peek** mungkin memerlukan pemindahan elemen.
+  Meskipun pada saat pemindahan elemen dari stack1 ke stack2 mungkin tampak seperti operasi yang mahal, tetapi `setiap elemen hanya dipindahkan satu kali`. `Ini berarti bahwa total waktu untuk operasi ini adalah amortized O(1)`, meskipun secara individu operasi `dequeue` atau `peek` mungkin memerlukan pemindahan elemen.
 
 ### Keunggulan
 
