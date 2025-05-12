@@ -36,6 +36,6 @@ Linked List adalah struktur data yang terdiri dari serangkaian node, di mana set
    Fungsi ini menelusuri seluruh Linked List untuk mencetak data.
 </pre>
 <pre>
-<stroong>4. deleteAt : O(n)  </stroong>
+<strong>4. deleteAt : O(n)  </strong>
    Fungsi ini mencari node pada posisi tertentu, dan kemudian menghapusnya. Pencarian posisi membutuhkan waktu O(n).
 </pre>
