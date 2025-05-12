@@ -1,4 +1,4 @@
-# Implementasi Linked List dalam C
+# Struktur Data - Linked List
 
 <pre>
 <strong>NAMA         :</strong> MUH. YUSUF MA'RUF
@@ -34,4 +34,3 @@ Linked List adalah struktur data yang terdiri dari serangkaian node, di mana set
 4. **deleteAt**: O(n)  
    Fungsi ini mencari node pada posisi tertentu, dan kemudian menghapusnya. Pencarian posisi membutuhkan waktu O(n).
 
-## Contoh Penggunaan
