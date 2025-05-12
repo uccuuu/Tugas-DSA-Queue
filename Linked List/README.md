@@ -1,5 +1,10 @@
 # Implementasi Linked List dalam C
 
+''' Nama : MUH. YUSUF MA'RUF
+''' NIM : D121241077
+''' Problem Link : https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+''' Difficulty : Easy
+
 ## Penjelasan
 
 Program ini mengimplementasikan struktur data **Singly Linked List** menggunakan bahasa C dengan beberapa operasi dasar, seperti:
