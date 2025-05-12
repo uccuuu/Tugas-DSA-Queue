@@ -19,7 +19,7 @@ Program ini mengimplementasikan struktur data **Singly Linked List** menggunakan
 Linked List adalah struktur data yang terdiri dari serangkaian node, di mana setiap node memiliki dua bagian:
 <pre>
 <strong>- Data (nilai yang disimpan dalam node).</strong>
-<strong>- Pointer ke node berikutnya** (yang disebut dengan `next`).</strong>
+<strong>- Pointer ke node berikutnya (yang disebut dengan `next`).</strong>
 </pre>
 
 ## Kompleksitas Waktu
