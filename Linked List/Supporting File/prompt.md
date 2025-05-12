@@ -54,10 +54,6 @@ Sebelum hapus:
 Setelah hapus:
 10 20 40 50
 
-yaml
-Copy
-Edit
-
 ---
 
 ##  Penjelasan Pendekatan
