@@ -1,5 +1,5 @@
 
-# Struktur Data - Queue
+# Struktur Data - Stack
 
 <pre>
 <strong>NAMA         :</strong> HENIEL PUTRI TANGKO RAMBA PADANG
