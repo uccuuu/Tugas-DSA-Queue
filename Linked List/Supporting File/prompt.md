@@ -32,12 +32,19 @@ Delete the node at a given position in a linked list and return a reference to t
 ##  Contoh Eksekusi Program
 
 ### **Contoh Input:**
+
 Jumlah node: 5
+
 Data ke-1: 10
+
 Data ke-2: 20
+
 Data ke-3: 30
+
 Data ke-4: 40
+
 Data ke-5: 50
+
 Posisi yang dihapus (mulai dari 0): 2
 
 ### **Contoh Output:**
