@@ -24,18 +24,18 @@ Linked List adalah struktur data yang terdiri dari serangkaian node, di mana set
 
 ## Kompleksitas Waktu
 <pre>
-<strong>1. **createNode: O(1)</strong>
+<strong>1. **createNode : O(1)</strong>
    Fungsi ini membuat node baru dalam waktu konstan.
 </pre> 
 <pre>
-<string>2. **append: O(n)</string> 
+<string>2. **append : O(n)</string> 
    Fungsi ini menelusuri Linked List untuk menemukan node terakhir sebelum menambahkan node baru.
 </pre>
 <pre>
-<strong>3. **printList: O(n)</strong> 
+<strong>3. **printList : O(n)</strong> 
    Fungsi ini menelusuri seluruh Linked List untuk mencetak data.
 </pre>
 <pre>
-<stroong>4. **deleteAt: O(n)</stroong>  
+<stroong>4. **deleteAt : O(n)</stroong>  
    Fungsi ini mencari node pada posisi tertentu, dan kemudian menghapusnya. Pencarian posisi membutuhkan waktu O(n).
 </pre>
