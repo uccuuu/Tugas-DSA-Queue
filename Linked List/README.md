@@ -10,12 +10,12 @@
 ## Penjelasan
 
 Program ini mengimplementasikan struktur data **Singly Linked List** menggunakan bahasa C dengan beberapa operasi dasar, seperti:
-
-1. **createNode**: Membuat node baru.
-2. **append**: Menambahkan node baru di akhir Linked List.
-3. **printList**: Mencetak semua data dalam Linked List.
-4. **deleteAt**: Menghapus node pada posisi tertentu.
-
+<pre>
+<strong>1. createNode**: Membuat node baru.</strong>
+<strong>2. append**: Menambahkan node baru di akhir Linked List.</strong>
+<strong>3. **printList**: Mencetak semua data dalam Linked List.</strong>
+<strong>4. **deleteAt**: Menghapus node pada posisi tertentu.</strong>
+</pre>
 Linked List adalah struktur data yang terdiri dari serangkaian node, di mana setiap node memiliki dua bagian:
 <pre>
 <strong>- Data (nilai yang disimpan dalam node).</strong>
