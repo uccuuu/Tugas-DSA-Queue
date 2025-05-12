@@ -4,7 +4,7 @@
 <pre>
 <strong>NAMA         :</strong> HENIEL PUTRI TANGKO RAMBA PADANG
 <strong>NIM          :</strong> D121241044
-<strong>Problem Link :</strong> <a href="https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true">Waiter - HackerRank</a>
+<strong>Problem Link :</strong> <a href=https://www.hackerrank.com/challenges/waiter/problem?isFullScreen=true>Waiter - HackerRank</a>
 <strong>Difficulty   :</strong> Medium
 </pre>
 
