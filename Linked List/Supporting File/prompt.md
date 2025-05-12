@@ -13,7 +13,7 @@ Delete the node at a given position in a linked list and return a reference to t
 
 # Jawaban
 
-## 📥 Format Masukan
+##  Format Masukan
 
 - Baris pertama berisi jumlah node yang akan dimasukkan ke dalam linked list.
 - Baris berikutnya adalah nilai dari setiap node.
@@ -50,7 +50,7 @@ Edit
 
 ---
 
-## ⚙ Penjelasan Pendekatan
+##  Penjelasan Pendekatan
 
 1. **Posisi Validasi:** Pastikan posisi yang ingin dihapus tidak lebih dari panjang list.
 2. **Hapus di Awal (posisi 0):** Geser pointer `head` ke `head->next`.
