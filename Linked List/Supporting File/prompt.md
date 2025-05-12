@@ -1,8 +1,11 @@
 #  Struktur Data - Linked List
 
-**Nama**: NAMA : MUH. YUSUF MA'RUF  
+**Nama**: NAMA : MUH. YUSUF MA'RUF
+
 **NIM**: D121241077 
-**Problem**: Delete Node at a Given Position in a Linked List  
+
+**Problem**: Delete Node at a Given Position in a Linked List 
+
 **Kategori**: Linked List (Easy)
 
 ---
