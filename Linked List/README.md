@@ -1,9 +1,11 @@
 # Implementasi Linked List dalam C
 
- #### Nama : MUH. YUSUF MA'RUF 
- #### NIM : D121241077
- #### Problem Link : https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
- #### Difficulty : Easy
+<pre>
+<strong>NAMA         :</strong> MUH. YUSUF MA'RUF
+<strong>NIM          :</strong> D121241077
+<strong>Problem Link :</strong> <a href="[https://www.hackerrank.com/challenges/queue-using-two-stacks/problem?isFullScreen=true](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)">Queue using Two Stacks - HackerRank</a>
+<strong>Difficulty   :</strong> Easy
+</pre>
 
 ## Penjelasan
 
